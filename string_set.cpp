@@ -5,14 +5,12 @@
 * By: Harrison Walters
 -------------------------------*/
 
+using namespace std;
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-
 #include "string_set.h"
-
-using namespace std;
 
 string_set::string_set() {
 
