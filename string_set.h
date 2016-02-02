@@ -1,5 +1,9 @@
-using namespace std;
+/*------------------------------
+* string_set.h
+* Description: Outline class
+-------------------------------*/
 
+using namespace std;
 class string_set {
 
 public:
