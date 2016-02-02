@@ -1,3 +1,10 @@
+/*------------------------------
+* String_set.h
+* Description: A program that hashes an input string to a table.
+*
+* By: Harrison Walters
+-------------------------------*/
+
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
