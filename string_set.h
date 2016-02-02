@@ -1,6 +1,6 @@
 /*------------------------------
 * string_set.h
-* Description: Outline class
+* Description: Class to outline string_set.cpp
 -------------------------------*/
 
 using namespace std;
